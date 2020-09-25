@@ -1,0 +1,10 @@
+# App config
+
+spring:
+  profiles:
+    active: test
+
+
+elasticsearch:
+  host: localhost
+  port: 9299

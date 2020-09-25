@@ -1,0 +1,11 @@
+# App config
+server.port: 8102
+spring:
+  application.name: Demo
+  profiles:
+    default: live
+
+
+elasticsearch:
+  host: localhost
+  port: 9200
